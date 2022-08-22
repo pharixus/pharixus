@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pharixus
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning renpy
+- 💞️ I’m looking to collaborate on game coding
+- 📫 How to reach me Pharixus#4502
